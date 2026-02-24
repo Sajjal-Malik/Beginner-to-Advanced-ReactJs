@@ -1,6 +1,6 @@
-import './App.css';
 import ComponentA from './components/ComponentA';
 import { DataContext, ThemeContext } from './contexts/AppContext';
+import './App.css';
 
 function App() {
   const name = "Malik";
