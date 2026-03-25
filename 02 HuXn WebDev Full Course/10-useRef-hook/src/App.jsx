@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <input type="text" ref={inputElement} />
-      <button onClick={() => focusInput()}>Write & Focus</button>
+      <button onClick={() => focusInput()}>Focus & Write</button>
     </div>
   );
 }
